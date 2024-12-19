@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrap{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.messeges-block{
+    width: 450px;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px rgba(4, 4, 7, 0.5);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 13px 15px 23px;
+    overflow-y: auto;
+}
+
+.sys-txt{
+    font-style: italic;
+    font-weight: bold;
+}
